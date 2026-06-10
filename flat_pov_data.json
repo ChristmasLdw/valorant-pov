@@ -1,0 +1,436 @@
+[
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "微风岛屿",
+    "player": "复盘",
+    "url": "https://www.bilibili.com/video/BV1rJ4m1V7WD/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "亚海悬城",
+    "player": "纸上谈兵防守打法",
+    "url": "https://www.bilibili.com/video/BV1hz421i714/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "幽邃地窟",
+    "player": "Aspas爽局（防守）",
+    "url": "https://www.bilibili.com/video/BV1USHvzHES8/?share_source=copy_web&vd_source=3baae410a3265ec06c9a67406370677a"
+  },
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "幽邃地窟",
+    "player": "Zmjjkk",
+    "url": "https://www.bilibili.com/video/BV1USHvzHES8/?share_source=copy_web&vd_source=3baae410a3265ec06c9a67406370677a"
+  },
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "源工重镇",
+    "player": "TenZ",
+    "url": "https://www.bilibili.com/video/BV15u411F7vh/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "源工重镇",
+    "player": "f0rsakeN",
+    "url": "https://www.bilibili.com/video/BV15u411F7vh/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "决斗",
+    "agent": "捷风",
+    "map": "源工重镇",
+    "player": "s0m",
+    "url": "https://www.bilibili.com/video/BV15u411F7vh/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "莲华古城",
+    "player": "SoMarcus",
+    "url": "https://www.bilibili.com/video/BV1C8411m7mq/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "莲华古城",
+    "player": "c0m",
+    "url": "https://www.bilibili.com/video/BV1C8411m7mq/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "日落之城",
+    "player": "Something",
+    "url": "https://www.bilibili.com/video/BV19y411h7mb/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "深海明珠",
+    "player": "f0rsakeN",
+    "url": "https://www.bilibili.com/video/BV1su411J7Q3/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "隐世修所",
+    "player": "Haven",
+    "url": "https://www.bilibili.com/video/BV1ejHxeCECb/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "源工重镇",
+    "player": "ChristmasLdw",
+    "url": "https://www.bilibili.com/video/BV1DXm5YSEPd/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "先锋",
+    "agent": "盖可",
+    "map": "源工重镇",
+    "player": "wo0t",
+    "url": "https://www.bilibili.com/video/BV1DXm5YSEPd/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "莲华古城",
+    "player": "inspire",
+    "url": "https://www.bilibili.com/video/BV1Ps4ze5EeR?vd_source=7df0f4803aae5682d171423b8827a8ff&spm_id_from=333.788.videopod.sections"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "裂变峡谷",
+    "player": "inspire",
+    "url": "https://www.bilibili.com/video/BV1xYQiYmEiT?vd_source=7df0f4803aae5682d171423b8827a8ff&spm_id_from=333.788.videopod.sections"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "霓虹町",
+    "player": "nAts",
+    "url": "https://www.bilibili.com/video/BV19i4y1W7Wd?vd_source=7df0f4803aae5682d171423b8827a8ff&spm_id_from=333.788.videopod.sections"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "日落之城",
+    "player": "纸上谈兵",
+    "url": "https://www.bilibili.com/video/BV1WK421t7fG/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "日落之城",
+    "player": "johnqt",
+    "url": "https://www.bilibili.com/video/BV1WK421t7fG/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "森寒冬港",
+    "player": "不厉害",
+    "url": "https://www.bilibili.com/video/BV15F4m157Hv/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "森寒冬港",
+    "player": "nAts",
+    "url": "https://www.bilibili.com/video/BV15F4m157Hv/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "深海明珠",
+    "player": "inspire",
+    "url": "https://www.bilibili.com/video/BV1NEUTYREaC?vd_source=7df0f4803aae5682d171423b8827a8ff&spm_id_from=333.788.videopod.sections"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "微风岛屿",
+    "player": "nAts",
+    "url": "https://www.bilibili.com/video/BV1oK42187bf?vd_source=7df0f4803aae5682d171423b8827a8ff&spm_id_from=333.788.videopod.sections"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "隐世修所",
+    "player": "inspire",
+    "url": "https://www.bilibili.com/video/BV1ExrvYMEcW/?vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "幽邃地窟",
+    "player": "nAts（必学）",
+    "url": "https://www.bilibili.com/video/BV1v76kBGEPZ/?share_source=copy_web&vd_source=3baae410a3265ec06c9a67406370677a"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "幽邃地窟",
+    "player": "autumn",
+    "url": "https://www.bilibili.com/video/BV1v76kBGEPZ/?share_source=copy_web&vd_source=3baae410a3265ec06c9a67406370677a"
+  },
+  {
+    "role": "哨卫",
+    "agent": "零",
+    "map": "盐海矿镇",
+    "player": "Inspire",
+    "url": "https://www.bilibili.com/video/BV1ZMgDzLEB5/?spm_id_from=333.1387.collection.video_card.click"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "莲华古城",
+    "player": "所有的都建议看",
+    "url": "https://www.bilibili.com/video/BV1Qp421Q79R/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "莲华古城",
+    "player": "复盘",
+    "url": "https://www.bilibili.com/video/BV1Qp421Q79R/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "莲华古城",
+    "player": "单向烟说明",
+    "url": "https://www.bilibili.com/video/BV1Qp421Q79R/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "莲华古城",
+    "player": "Karon",
+    "url": "https://www.bilibili.com/video/BV1Qp421Q79R/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "霓虹町",
+    "player": "必看三合一+基础教学",
+    "url": "https://www.bilibili.com/video/BV12DKwzmEUJ/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "霓虹町",
+    "player": "chronicle",
+    "url": "https://www.bilibili.com/video/BV12DKwzmEUJ/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "霓虹町",
+    "player": "f0rsaken",
+    "url": "https://www.bilibili.com/video/BV12DKwzmEUJ/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "日落之城",
+    "player": "Bang(有一点讲解，守B)",
+    "url": "https://www.bilibili.com/video/BV1tu4m1M7sJ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "日落之城",
+    "player": "Bang(守A)",
+    "url": "https://www.bilibili.com/video/BV1tu4m1M7sJ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "日落之城",
+    "player": "Bang(4打5)",
+    "url": "https://www.bilibili.com/video/BV1tu4m1M7sJ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "日落之城",
+    "player": "haodong(好玩)",
+    "url": "https://www.bilibili.com/video/BV1tu4m1M7sJ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "森寒冬港",
+    "player": "去玩蝰蛇",
+    "url": "https://www.bilibili.com/video/BV1AouCziEnY/?spm_id_from=333.1387.upload.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "森寒冬港",
+    "player": "primmie johnqt",
+    "url": "https://www.bilibili.com/video/BV1AouCziEnY/?spm_id_from=333.1387.upload.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "亚海悬城",
+    "player": "所有的都建议看",
+    "url": "https://www.bilibili.com/video/BV1RbmKYPE1P?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "亚海悬城",
+    "player": "Bang(带讲解，先看)",
+    "url": "https://www.bilibili.com/video/BV1RbmKYPE1P?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "亚海悬城",
+    "player": "Zander（进攻）",
+    "url": "https://www.bilibili.com/video/BV1RbmKYPE1P?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "隐世修所",
+    "player": "所有的都建议看",
+    "url": "https://www.bilibili.com/video/BV1NC4y1N7yW?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "隐世修所",
+    "player": "Bang(必看)",
+    "url": "https://www.bilibili.com/video/BV1NC4y1N7yW?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "隐世修所",
+    "player": "Zander(隔断烟)",
+    "url": "https://www.bilibili.com/video/BV1NC4y1N7yW?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "隐世修所",
+    "player": "Bang(防守站AB)",
+    "url": "https://www.bilibili.com/video/BV1NC4y1N7yW?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "源工重镇",
+    "player": "最好玩炼狱",
+    "url": "https://www.bilibili.com/video/BV1Q2421M7LZ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "源工重镇",
+    "player": "Flexinja1",
+    "url": "https://www.bilibili.com/video/BV1Q2421M7LZ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "源工重镇",
+    "player": "Flexinja2",
+    "url": "https://www.bilibili.com/video/BV1Q2421M7LZ?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "控场",
+    "agent": "幽影",
+    "map": "盐海矿镇",
+    "player": "三合一素材 必看",
+    "url": "https://www.bilibili.com/video/BV1d1G4zSEoG/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "莲华古城",
+    "player": "t3xture",
+    "url": "https://www.bilibili.com/video/BV1vRP2e4E21/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "裂变峡谷",
+    "player": "meiy",
+    "url": "https://www.bilibili.com/video/BV1jRr6YXERs/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "霓虹町",
+    "player": "something",
+    "url": "https://www.bilibili.com/video/BV1rw411c7ve/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "日落之城",
+    "player": "something",
+    "url": "https://www.bilibili.com/video/BV1N8411y7o4/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "日落之城",
+    "player": "meteor",
+    "url": "https://www.bilibili.com/video/BV1N8411y7o4/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "亚海悬城",
+    "player": "Something",
+    "url": "https://www.bilibili.com/video/BV1wy411a7Jq?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "亚海悬城",
+    "player": "Something",
+    "url": "https://www.bilibili.com/video/BV1wy411a7Jq?spm_id_from=333.788.videopod.sections&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "隐世修所",
+    "player": "johnqt（补枪）",
+    "url": "https://www.bilibili.com/video/BV1kdDPYUEiX/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "幽邃地窟",
+    "player": "t3xture",
+    "url": "https://www.bilibili.com/video/BV1ecaWzQET7/?share_source=copy_web&vd_source=3baae410a3265ec06c9a67406370677a"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "源工重镇",
+    "player": "wo0t（预瞄）",
+    "url": "https://www.bilibili.com/video/BV1Zc2HYyELe/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  },
+  {
+    "role": "一些新手教学",
+    "agent": "预瞄/思路",
+    "map": "源工重镇",
+    "player": "t3xture(所有人必看)",
+    "url": "https://www.bilibili.com/video/BV1Zc2HYyELe/?spm_id_from=333.1387.collection.video_card.click&vd_source=7df0f4803aae5682d171423b8827a8ff"
+  }
+]
